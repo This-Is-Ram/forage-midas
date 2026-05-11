@@ -167,7 +167,7 @@ Through this project, the following backend engineering concepts were implemente
 
 ## Acknowledgements
 
-This project was completed as part of the:
+This project was completed as part of the.
 
 **JPMorganChase Advanced Software Engineering Virtual Experience Program**
 Hosted on Forage
